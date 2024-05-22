@@ -14,7 +14,7 @@ You can search all our guides [on our developer site](https://developer.movework
 
 You’ll need a Github account to request a guide. You can [create one for free](https://github.com/signup). 
 
-If you’re looking for a guide, but don’t see one, try to **upvote an existing request for a guide**.
+If you’re looking for a guide, but don’t see one, try to **upvote an existing request for a guide**. 
 
 1. Go to our [most-popular open issues](https://github.com/moveworksinc/developer-docs/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
 2. Search for your guide in the _Filters_ search box
